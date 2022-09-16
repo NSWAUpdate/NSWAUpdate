@@ -1,6 +1,6 @@
 {
-"versão":"9.41",
-"title":"Atualização disponível v9.41 🛠️",
-"description":"CORRIGIDO Excluir mensagens de administradores em grupos que não funcionavam corretamente\n\nCORRIGIDO o estilo caseiro não funcionava\n\nCORRIGIDO as linhas de furto não funcionam\n\nCORRIGIDO o bloqueio do WhatsApp não funcionava\n\nCORRIGIDO Ocultar atualização de status recentemente/visualizada/silenciada não está funcionando\n\nCORRIGIDO Emblema de administrador aparecendo para membros aleatórios",
-"download":"https://www.nswhatsapp.org/p/ns-whatsapp-pagina-de-download.html"
+ "version":"9.41",
+ "title":"Nova atualização 9.41 🛠️",
+ "description":"Correção de erros 👏🏻🚀",
+ "download":"https://www.nswhatsapp.org/p/ns-whatsapp-pagina-de-download.html"
 }
