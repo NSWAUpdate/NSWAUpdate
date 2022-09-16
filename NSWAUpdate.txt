@@ -1,6 +1,6 @@
 {
-"versão":"9.40f",
-"title":"Atualização disponível v9.40f 🛠️",
-"description":"Atualização da base para 2.22.17.76\n\nEnquete em conversa de Grupo\n\nCapacidade de compartilhar várias imagens/vídeos/arquivos ao mesmo tempo do bate-papo para aplicativos externos\n\nPrivacidade online! Você pode escolher quem pode ver quando está online\n\nSair dos grupos secretamente sem que todas as pessoas saibam\n\nReações rápidas ao status",
+"versão":"9.41",
+"title":"Atualização disponível v9.41 🛠️",
+"description":"CORRIGIDO Excluir mensagens de administradores em grupos que não funcionavam corretamente\n\nCORRIGIDO o estilo caseiro não funcionava\n\nCORRIGIDO as linhas de furto não funcionam\n\nCORRIGIDO o bloqueio do WhatsApp não funcionava\n\nCORRIGIDO Ocultar atualização de status recentemente/visualizada/silenciada não está funcionando\n\nCORRIGIDO Emblema de administrador aparecendo para membros aleatórios",
 "download":"https://www.nswhatsapp.org/p/ns-whatsapp-pagina-de-download.html"
 }
