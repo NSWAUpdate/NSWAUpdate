@@ -2,5 +2,5 @@
  "version":"9.41",
  "title":"Nova atualização 9.41 🛠️",
  "description":"Correção de erros 👏🏻🚀",
- "download":"https://www.nswhatsapp.org/p/ns-whatsapp-pagina-de-download.html"
+ "download":"https://bit.ly/3RDpPVc"
 }
