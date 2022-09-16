@@ -1,6 +1,6 @@
 {
  "version":"9.41",
  "title":"Nova atualização 9.41 🛠️",
- "description":"Correção de erros 👏🏻🚀",
+ "description":"CORRIGIDO Excluir mensagens de administradores em grupos que não funcionavam corretamente\n\nCORRIGIDO: o estilo caseiro não funcionava \n\nCORRIGIDO As linhas de furto não funcionam\n\nCORRIGIDO O bloqueio do WhatsApp não funcionava\n\nCORRIGIDO Ocultar atualização de status recentemente/visualizada/silenciada não está funcionando\n\nCORRIGIDO Emblema de administrador aparecendo para membros aleatórios",
  "download":"https://bit.ly/3RDpPVc"
 }
